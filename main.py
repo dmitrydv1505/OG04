@@ -10,4 +10,3 @@ elif b > a:
 else:
     print("a равно b")
 
-    
